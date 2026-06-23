@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+spark-sales-env/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark
+spark-warehouse/
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+data/
